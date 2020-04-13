@@ -1,0 +1,27 @@
+{
+  "products":[
+      {
+           "role":"Admin",
+          "userName":"sai@gmail",
+          "password":"123456"
+        
+      },
+      {
+        
+        "role":"Admin",
+        "userName":"kumar@gmail",
+        "password":"123456"
+      },
+      {
+        
+        "role":"student",
+        "userName":"kumar@m",
+        "password":"123456"
+      },
+      {
+        "role":"student",
+        "userName":"sai@m",
+        "password":"123456"
+      }
+  ]
+}

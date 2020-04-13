@@ -1,0 +1,39 @@
+{
+  "details": [
+    {
+      "id": "1",
+      "name": "Mahesh",
+      "rollno": "501",
+      "fathername": "Suresh",
+      "mobileno": "8787878787"
+    },
+    {
+      "id": "2",
+      "name": "Rajesh",
+      "rollno": "502",
+      "fathername": "Sandesh",
+      "mobileno": "7878787878"
+    },
+    {
+      "id": "3",
+      "name": "Arvind",
+      "rollno": "505",
+      "fathername": "Srikanth",
+      "mobileno": "8887878787"
+    },
+    {
+      "id": 4,
+      "name": "venkatsai",
+      "rollno": 8,
+      "fathername": "mahesh",
+      "mobileno": 9090909090
+    },
+    {
+      "id": 5,
+      "name": "dheeraj",
+      "rollno": 526,
+      "fathername": "venkatsai",
+      "mobileno": 9080989898
+    }
+  ]
+}
